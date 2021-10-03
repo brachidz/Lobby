@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jun 15 2021 10:12:43 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/components/applictaionsCards/SourcesCards.js
+
+
+Created files:
+* .autogit/logs/log-15-5-2021-9-42-24.txt
+
+
+Deleted files:
+
+
+Renamed files:

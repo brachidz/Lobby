@@ -1,0 +1,94 @@
+
+.marginClass {
+    width: 100%;
+    margin-right: 10px;
+    height: 110%;
+    margin-top: 30px;
+}
+.marginClass1{
+    width: 100%;
+    margin-right: -18px;
+    height: 110%;
+    margin-top: 30px;
+}
+
+/* .text-time-revers-container{
+    display: none;
+} */
+.add-div{
+    display:none;
+}
+
+#chart{
+    height: 100%;
+}
+.total-chart #chart{
+    height: 112%;
+}
+.in-small-screen{
+    height: 12rem;
+    width: 82%;
+    margin-left: 11%;
+}
+.container-chart{
+    /* margin-right: -27px; */
+    max-width:1290px;
+ 
+}
+
+@media only screen and (max-width: 770px) {
+    .myClass {
+     flex-wrap: wrap;
+    }
+    #chart:nth-of-type(1) svg{
+        margin-top: -57px !important;
+        margin-left: 20px !important;
+    }
+    .container-chart{
+        margin-right: 30px;
+    }
+    .marginClass{
+        margin-bottom:20px;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 20px;
+        height:80%
+    }
+    .marginClass1{
+        margin-bottom:40px;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 40px;
+        height:90%
+    }
+    .return-chart{
+        /* margin-right:1000px; */
+        margin-right:4px ;
+    }
+    .container-chart{
+        max-width: 652px;
+    }
+    /* .text-time-revers-container{
+        display: flex;
+        height: 31px;
+        margin-bottom: 11px;
+        /* background-color: red; */
+        /* width: 100%; */
+    /* } */ 
+    .in-small-screen{
+        width: 100%;
+        margin-left: 0;
+    }
+    .add-div{
+        display: flex;
+        height: 31px;
+        width: 100%;
+        margin-bottom: 45px;
+    margin-top: -42px
+    }
+}
+@media only screen and (min-width: 900px) {
+  .circle-menu-container{
+     display: flex; 
+  }
+}

@@ -1,0 +1,64 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 19 2021 13:44:38 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/Redux/reducers/staticDetailsReducer.js
+
+
+Created files:
+* .autogit/logs/log-19-3-2021-13-14-19.txt
+* build1/static/css/main.fdd00e3b.chunk.css
+* build1/static/css/main.fdd00e3b.chunk.css.map
+* build1/static/js/2.2707b3b2.chunk.js.map
+* build1/static/js/main.7968132b.chunk.js
+* build1/static/js/main.7968132b.chunk.js.map
+
+
+Deleted files:
+* build0/static/css/main.d6a23529.chunk.css
+* build0/static/css/main.d6a23529.chunk.css.map
+* build0/static/js/2.73e642b0.chunk.js.map
+* build0/static/js/main.292fc3ae.chunk.js
+* build0/static/js/main.292fc3ae.chunk.js.map
+
+
+Renamed files:
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]

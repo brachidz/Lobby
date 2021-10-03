@@ -1,0 +1,72 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 19 2021 10:42:47 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/components/InformationTemp.css
+* src/components/InformationTemp.js
+* src/components/chart.css
+
+
+Created files:
+* .autogit/logs/log-19-3-2021-10-12-27.txt
+
+* build0/index.html
+* build0/static/css/main.d6a23529.chunk.css
+* build0/static/css/main.d6a23529.chunk.css.map
+* build0/static/js/2.73e642b0.chunk.js
+* build0/static/js/2.73e642b0.chunk.js.map
+* build0/static/js/main.292fc3ae.chunk.js
+* build0/static/js/main.292fc3ae.chunk.js.map
+* build0/static/js/runtime-main.3a5e473a.js
+
+
+Deleted files:
+
+* build5/index.html
+* build5/laeder.png
+* build5/logo512.png
+* build5/static/css/main.4ff4c3b6.chunk.css
+* build5/static/css/main.4ff4c3b6.chunk.css.map
+* build5/static/js/2.08458476.chunk.js
+* build5/static/js/2.08458476.chunk.js.map
+* build5/static/js/main.270e5245.chunk.js
+* build5/static/js/main.270e5245.chunk.js.map
+* build5/static/js/runtime-main.3ac648b1.js
+
+
+Renamed files:
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]

@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon May 10 2021 14:19:00 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* src/components/applictaionsCards/SourcesCards.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

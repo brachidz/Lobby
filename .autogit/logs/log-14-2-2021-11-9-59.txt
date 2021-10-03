@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun Mar 14 2021 11:09:59 GMT+0200 (שעון ישראל (חורף))
+------------------------------------------------------
+
+Modified files:
+* src/components/applictaionsCards/SourcesCardsStyles.css
+
+
+Created files:
+* .autogit/logs/log-14-2-2021-10-10-12.txt
+
+
+Deleted files:
+
+
+Renamed files:

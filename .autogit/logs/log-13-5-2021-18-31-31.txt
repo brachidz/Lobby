@@ -1,0 +1,60 @@
+-------------------- Auto-Git Log --------------------
+		Sun Jun 13 2021 18:31:31 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* package-lock.json
+* package.json
+
+
+Created files:
+* .autogit/logs/log-13-5-2021-16-31-54.txt
+* buildLobby/asset-manifest.json
+* buildLobby/favicon.ico
+* buildLobby/index.html
+* buildLobby/logo192.png
+* buildLobby/manifest.json
+* buildLobby/robots.txt
+* buildLobby/static/css/2.4dbda238.chunk.css
+* buildLobby/static/css/2.4dbda238.chunk.css.map
+* buildLobby/static/css/main.e9f8ef35.chunk.css
+* buildLobby/static/css/main.e9f8ef35.chunk.css.map
+* buildLobby/static/js/2.53360ff4.chunk.js
+* buildLobby/static/js/2.53360ff4.chunk.js.LICENSE.txt
+* buildLobby/static/js/2.53360ff4.chunk.js.map
+* buildLobby/static/js/3.28519480.chunk.js
+* buildLobby/static/js/3.28519480.chunk.js.map
+* buildLobby/static/js/main.0a36d6bb.chunk.js
+* buildLobby/static/js/main.0a36d6bb.chunk.js.map
+* buildLobby/static/js/runtime-main.c14440ed.js
+* buildLobby/static/js/runtime-main.c14440ed.js.map
+* buildLobby/static/media/BLDR.05a08c19.svg
+* buildLobby/static/media/box.757d446b.svg
+* buildLobby/static/media/clocks.aa74373d.svg
+* buildLobby/static/media/crm.b1ec1d28.svg
+* buildLobby/static/media/funnel.540fb915.svg
+* buildLobby/static/media/hoverBLDR.0e36a26d.svg
+* buildLobby/static/media/hoverBox.5f8dd86f.svg
+* buildLobby/static/media/hoverClocks.a5cf4d9f.svg
+* buildLobby/static/media/hoverCrm.8912cc1a.svg
+* buildLobby/static/media/hoverFunnel.23e090cb.svg
+* buildLobby/static/media/hoverHub.357848ca.svg
+* buildLobby/static/media/hoverKnowme.0a0043e2.svg
+* buildLobby/static/media/hoverPapers.840861d7.svg
+* buildLobby/static/media/hoverSoundBox.1679c900.svg
+* buildLobby/static/media/hoverTime.9ad7fa11.svg
+* buildLobby/static/media/hoverVlogger.bd7d597c.svg
+* buildLobby/static/media/hub.86ace7ea.svg
+* buildLobby/static/media/knowme.d80c2ff4.svg
+* buildLobby/static/media/papers.51e63f3b.svg
+* buildLobby/static/media/soundBox.1839242a.svg
+* buildLobby/static/media/time.0d22d1a2.svg
+* buildLobby/static/media/user.35fc4e51.svg
+* buildLobby/static/media/vlogger.2fd50065.svg
+
+
+Deleted files:
+
+
+Renamed files:

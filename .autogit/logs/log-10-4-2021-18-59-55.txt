@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon May 10 2021 18:59:55 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* src/Redux/reducers/staticDetailsReducer.js
+
+
+Created files:
+* .autogit/logs/log-10-4-2021-17-59-14.txt
+
+
+Deleted files:
+
+
+Renamed files:

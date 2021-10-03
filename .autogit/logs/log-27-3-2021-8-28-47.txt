@@ -1,0 +1,60 @@
+-------------------- Auto-Git Log --------------------
+		Tue Apr 27 2021 08:28:47 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* package-lock.json
+* package.json
+
+
+Created files:
+* .autogit/logs/log-26-3-2021-15-3-36.txt
+* build7/asset-manifest.json
+* build7/favicon.ico
+* build7/index.html
+* build7/logo192.png
+* build7/manifest.json
+* build7/robots.txt
+* build7/static/css/2.4dbda238.chunk.css
+* build7/static/css/2.4dbda238.chunk.css.map
+* build7/static/css/main.2140b4cd.chunk.css
+* build7/static/css/main.2140b4cd.chunk.css.map
+* build7/static/js/2.f5a18b82.chunk.js
+* build7/static/js/2.f5a18b82.chunk.js.LICENSE.txt
+* build7/static/js/2.f5a18b82.chunk.js.map
+* build7/static/js/3.552ada76.chunk.js
+* build7/static/js/3.552ada76.chunk.js.map
+* build7/static/js/main.0ee1a116.chunk.js
+* build7/static/js/main.0ee1a116.chunk.js.map
+* build7/static/js/runtime-main.09577659.js
+* build7/static/js/runtime-main.09577659.js.map
+* build7/static/media/BLDR.05a08c19.svg
+* build7/static/media/box.757d446b.svg
+* build7/static/media/clocks.aa74373d.svg
+* build7/static/media/crm.b1ec1d28.svg
+* build7/static/media/funnel.540fb915.svg
+* build7/static/media/hoverBLDR.0e36a26d.svg
+* build7/static/media/hoverBox.5f8dd86f.svg
+* build7/static/media/hoverClocks.a5cf4d9f.svg
+* build7/static/media/hoverCrm.8912cc1a.svg
+* build7/static/media/hoverFunnel.23e090cb.svg
+* build7/static/media/hoverHub.357848ca.svg
+* build7/static/media/hoverKnowme.0a0043e2.svg
+* build7/static/media/hoverPapers.840861d7.svg
+* build7/static/media/hoverSoundBox.1679c900.svg
+* build7/static/media/hoverTime.9ad7fa11.svg
+* build7/static/media/hoverVlogger.bd7d597c.svg
+* build7/static/media/hub.86ace7ea.svg
+* build7/static/media/knowme.d80c2ff4.svg
+* build7/static/media/papers.51e63f3b.svg
+* build7/static/media/soundBox.1839242a.svg
+* build7/static/media/time.0d22d1a2.svg
+* build7/static/media/user.35fc4e51.svg
+* build7/static/media/vlogger.2fd50065.svg
+
+
+Deleted files:
+
+
+Renamed files:

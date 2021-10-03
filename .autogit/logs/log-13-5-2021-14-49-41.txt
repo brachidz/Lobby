@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun Jun 13 2021 14:49:41 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* src/Redux/staticStore.js
+
+
+Created files:
+* .autogit/logs/log-13-5-2021-10-12-20.txt
+
+
+Deleted files:
+
+
+Renamed files:

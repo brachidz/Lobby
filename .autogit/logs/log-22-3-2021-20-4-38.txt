@@ -1,0 +1,24 @@
+-------------------- Auto-Git Log --------------------
+		Thu Apr 22 2021 20:04:38 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* build3/asset-manifest.json
+* build3/index.html
+
+
+Created files:
+* build3/static/css/main.e2bf88fc.chunk.css
+* build3/static/css/main.e2bf88fc.chunk.css.map
+* build3/static/js/main.992adf80.chunk.js.map
+
+
+Deleted files:
+* build3/static/css/main.e0b68b91.chunk.css
+* build3/static/css/main.e0b68b91.chunk.css.map
+* build3/static/js/main.7e816ee3.chunk.js.map
+
+
+Renamed files:
+* [object Object]

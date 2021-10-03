@@ -1,0 +1,59 @@
+-------------------- Auto-Git Log --------------------
+		Mon Jun 14 2021 10:16:19 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/Redux/middleware/crudMiddleware.js
+
+
+Created files:
+* .autogit/logs/log-14-5-2021-9-45-59.txt
+* build0/asset-manifest.json
+* build0/favicon.ico
+* build0/index.html
+* build0/logo192.png
+* build0/manifest.json
+* build0/robots.txt
+* build0/static/css/2.4dbda238.chunk.css
+* build0/static/css/2.4dbda238.chunk.css.map
+* build0/static/css/main.e9f8ef35.chunk.css
+* build0/static/css/main.e9f8ef35.chunk.css.map
+* build0/static/js/2.53360ff4.chunk.js
+* build0/static/js/2.53360ff4.chunk.js.LICENSE.txt
+* build0/static/js/2.53360ff4.chunk.js.map
+* build0/static/js/3.28519480.chunk.js
+* build0/static/js/3.28519480.chunk.js.map
+* build0/static/js/main.efa767fa.chunk.js
+* build0/static/js/main.efa767fa.chunk.js.map
+* build0/static/js/runtime-main.c14440ed.js
+* build0/static/js/runtime-main.c14440ed.js.map
+* build0/static/media/BLDR.05a08c19.svg
+* build0/static/media/box.757d446b.svg
+* build0/static/media/clocks.aa74373d.svg
+* build0/static/media/crm.b1ec1d28.svg
+* build0/static/media/funnel.540fb915.svg
+* build0/static/media/hoverBLDR.0e36a26d.svg
+* build0/static/media/hoverBox.5f8dd86f.svg
+* build0/static/media/hoverClocks.a5cf4d9f.svg
+* build0/static/media/hoverCrm.8912cc1a.svg
+* build0/static/media/hoverFunnel.23e090cb.svg
+* build0/static/media/hoverHub.357848ca.svg
+* build0/static/media/hoverKnowme.0a0043e2.svg
+* build0/static/media/hoverPapers.840861d7.svg
+* build0/static/media/hoverSoundBox.1679c900.svg
+* build0/static/media/hoverTime.9ad7fa11.svg
+* build0/static/media/hoverVlogger.bd7d597c.svg
+* build0/static/media/hub.86ace7ea.svg
+* build0/static/media/knowme.d80c2ff4.svg
+* build0/static/media/papers.51e63f3b.svg
+* build0/static/media/soundBox.1839242a.svg
+* build0/static/media/time.0d22d1a2.svg
+* build0/static/media/user.35fc4e51.svg
+* build0/static/media/vlogger.2fd50065.svg
+
+
+Deleted files:
+
+
+Renamed files:

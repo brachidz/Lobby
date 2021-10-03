@@ -1,0 +1,25 @@
+-------------------- Auto-Git Log --------------------
+		Tue May 11 2021 12:11:09 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* build6/asset-manifest.json
+* build6/index.html
+* src/App.js
+* src/Redux/middleware/crudMiddleware.js
+* src/Redux/reducers/staticDetailsReducer.js
+
+
+Created files:
+* .autogit/logs/log-11-4-2021-11-32-42.txt
+* build6/static/js/main.2107f0b6.chunk.js
+* build6/static/js/main.2107f0b6.chunk.js.map
+
+
+Deleted files:
+* build6/static/js/main.2fff82e3.chunk.js
+* build6/static/js/main.2fff82e3.chunk.js.map
+
+
+Renamed files:

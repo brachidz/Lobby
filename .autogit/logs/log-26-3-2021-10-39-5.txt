@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 26 2021 10:39:05 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+
+
+Created files:
+* .autogit/logs/log-25-3-2021-18-20-39.txt
+
+
+Deleted files:
+
+
+Renamed files:

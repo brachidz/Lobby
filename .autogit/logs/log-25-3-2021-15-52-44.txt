@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 25 2021 15:52:44 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/App.js
+* src/components/ProtectedRoutes.js
+
+
+Created files:
+* .autogit/logs/log-25-3-2021-14-16-34.txt
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,65 @@
+-------------------- Auto-Git Log --------------------
+		Wed Apr 21 2021 08:14:33 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/Redux/middleware/crudMiddleware.js
+* src/components/InformationTemp.css
+
+
+Created files:
+* .autogit/logs/log-20-3-2021-17-36-44.txt
+* build1/static/css/main.e0b68b91.chunk.css
+* build1/static/css/main.e0b68b91.chunk.css.map
+* build1/static/js/2.869f0be5.chunk.js.map
+* build1/static/js/main.7e816ee3.chunk.js
+* build1/static/js/main.7e816ee3.chunk.js.map
+
+
+Deleted files:
+* build3/static/css/main.fec517ee.chunk.css
+* build3/static/css/main.fec517ee.chunk.css.map
+* build3/static/js/2.2707b3b2.chunk.js.map
+* build3/static/js/main.7fad870a.chunk.js
+* build3/static/js/main.7fad870a.chunk.js.map
+
+
+Renamed files:
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]

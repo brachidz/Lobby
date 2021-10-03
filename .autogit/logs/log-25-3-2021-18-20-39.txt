@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 25 2021 18:20:39 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* src/components/BarT.js
+* src/components/Chart2.js
+* src/components/ChartT.js
+* src/components/GougeTask.js
+* src/components/InformationTemp.css
+* src/components/InformationTemp.js
+* src/components/ProtectedRoutes.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,60 @@
+-------------------- Auto-Git Log --------------------
+		Wed Apr 21 2021 11:08:51 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/Redux/middleware/crudMiddleware.js
+* src/components/BarT.js
+
+
+Created files:
+* .autogit/logs/log-21-3-2021-9-15-59.txt
+* build3/asset-manifest.json
+* build3/favicon.ico
+* build3/index.html
+* build3/logo192.png
+* build3/manifest.json
+* build3/robots.txt
+* build3/static/css/2.4dbda238.chunk.css
+* build3/static/css/2.4dbda238.chunk.css.map
+* build3/static/css/main.e0b68b91.chunk.css
+* build3/static/css/main.e0b68b91.chunk.css.map
+* build3/static/js/2.869f0be5.chunk.js
+* build3/static/js/2.869f0be5.chunk.js.LICENSE.txt
+* build3/static/js/2.869f0be5.chunk.js.map
+* build3/static/js/3.6bf95a2f.chunk.js
+* build3/static/js/3.6bf95a2f.chunk.js.map
+* build3/static/js/main.7e816ee3.chunk.js
+* build3/static/js/main.7e816ee3.chunk.js.map
+* build3/static/js/runtime-main.3a5e473a.js
+* build3/static/js/runtime-main.3a5e473a.js.map
+* build3/static/media/BLDR.05a08c19.svg
+* build3/static/media/box.757d446b.svg
+* build3/static/media/clocks.aa74373d.svg
+* build3/static/media/crm.b1ec1d28.svg
+* build3/static/media/funnel.540fb915.svg
+* build3/static/media/hoverBLDR.0e36a26d.svg
+* build3/static/media/hoverBox.5f8dd86f.svg
+* build3/static/media/hoverClocks.a5cf4d9f.svg
+* build3/static/media/hoverCrm.8912cc1a.svg
+* build3/static/media/hoverFunnel.23e090cb.svg
+* build3/static/media/hoverHub.357848ca.svg
+* build3/static/media/hoverKnowme.0a0043e2.svg
+* build3/static/media/hoverPapers.840861d7.svg
+* build3/static/media/hoverSoundBox.1679c900.svg
+* build3/static/media/hoverTime.9ad7fa11.svg
+* build3/static/media/hoverVlogger.bd7d597c.svg
+* build3/static/media/hub.86ace7ea.svg
+* build3/static/media/knowme.d80c2ff4.svg
+* build3/static/media/papers.51e63f3b.svg
+* build3/static/media/soundBox.1839242a.svg
+* build3/static/media/time.0d22d1a2.svg
+* build3/static/media/user.35fc4e51.svg
+* build3/static/media/vlogger.2fd50065.svg
+
+
+Deleted files:
+
+
+Renamed files:

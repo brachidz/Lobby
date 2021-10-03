@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Thu Mar 11 2021 12:21:05 GMT+0200 (שעון ישראל (חורף))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/Redux/middleware/crudMiddleware.js
+* src/Redux/reducers/staticDetailsReducer.js
+* src/components/InformationTemp.js
+* src/components/applictaionsCards/SourcesCards.js
+* src/services/user.service.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

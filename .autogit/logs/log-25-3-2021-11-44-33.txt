@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 25 2021 11:44:33 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/Redux/middleware/crudMiddleware.js
+
+
+Created files:
+* .autogit/logs/log-25-3-2021-10-44-22.txt
+
+
+Deleted files:
+
+
+Renamed files:

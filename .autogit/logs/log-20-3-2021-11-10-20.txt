@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Tue Apr 20 2021 11:10:20 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/components/applictaionsCards/SourcesCards.js
+* src/components/applictaionsCards/SourcesCardsStyles.css
+
+
+Created files:
+* .autogit/logs/log-20-3-2021-10-39-30.txt
+
+
+Deleted files:
+
+
+Renamed files:

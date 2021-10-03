@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sun Mar 14 2021 10:10:12 GMT+0200 (שעון ישראל (חורף))
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-14-2-2021-9-39-53.txt
+
+
+Deleted files:
+
+
+Renamed files:

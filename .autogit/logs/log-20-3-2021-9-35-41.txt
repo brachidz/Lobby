@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+		Tue Apr 20 2021 09:35:41 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .autogit/logs/log-19-3-2021-10-42-47.txt
+* .eslintcache
+* package-lock.json
+* package.json
+* public/manifest.json
+* src/App.js
+
+
+Created files:
+* .autogit/logs/log-19-3-2021-21-49-38.txt
+
+
+Deleted files:
+* src/components/Icon.js
+
+
+Renamed files:

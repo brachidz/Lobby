@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sun Mar 14 2021 13:40:07 GMT+0200 (שעון ישראל (חורף))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/components/InformationTemp.js
+
+
+Created files:
+* .autogit/logs/log-14-2-2021-13-9-50.txt
+
+
+Deleted files:
+
+
+Renamed files:

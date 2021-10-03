@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Tue Apr 20 2021 17:36:44 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* src/components/InformationTemp.css
+
+
+Created files:
+* .autogit/logs/log-20-3-2021-15-28-18.txt
+
+
+Deleted files:
+
+
+Renamed files:

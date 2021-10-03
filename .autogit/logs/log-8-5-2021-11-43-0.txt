@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jun 08 2021 11:43:00 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/index.js
+
+
+Created files:
+* .autogit/logs/log-7-5-2021-10-2-47.txt
+
+
+Deleted files:
+
+
+Renamed files:

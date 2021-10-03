@@ -1,0 +1,26 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jun 08 2021 12:14:45 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* build100/asset-manifest.json
+* build100/index.html
+* public/index.html
+* src/index.js
+
+
+Created files:
+* .autogit/logs/log-8-5-2021-11-43-0.txt
+* build100/static/js/main.1e091a06.chunk.js.map
+
+
+Deleted files:
+* build100/static/js/main.a50aa9bc.chunk.js.map
+
+
+Renamed files:
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]

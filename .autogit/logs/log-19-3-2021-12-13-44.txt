@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 19 2021 12:13:44 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/Redux/middleware/crudMiddleware.js
+* src/components/InformationTemp.css
+* src/components/applictaionsCards/SourcesCards.js
+* src/components/applictaionsCards/SourcesCardsStyles.css
+
+
+Created files:
+* .autogit/logs/log-19-3-2021-11-43-22.txt
+
+
+Deleted files:
+
+
+Renamed files:

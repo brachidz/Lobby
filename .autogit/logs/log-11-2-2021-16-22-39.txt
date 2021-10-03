@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Thu Mar 11 2021 16:22:39 GMT+0200 (שעון ישראל (חורף))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/Redux/reducers/staticDetailsReducer.js
+* src/components/BarT.js
+
+
+Created files:
+* .autogit/logs/log-11-2-2021-15-52-24.txt
+
+
+Deleted files:
+
+
+Renamed files:

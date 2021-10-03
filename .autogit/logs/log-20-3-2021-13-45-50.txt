@@ -1,0 +1,61 @@
+-------------------- Auto-Git Log --------------------
+		Tue Apr 20 2021 13:45:50 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+
+
+Created files:
+* .autogit/logs/log-20-3-2021-13-11-3.txt
+* build3/static/css/main.fec517ee.chunk.css.map
+* build3/static/js/main.7fad870a.chunk.js
+* build3/static/js/main.7fad870a.chunk.js.map
+
+
+Deleted files:
+* build2/static/css/main.aa4cfc5a.chunk.css.map
+* build2/static/js/main.d23d60bb.chunk.js
+* build2/static/js/main.d23d60bb.chunk.js.map
+
+
+Renamed files:
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
